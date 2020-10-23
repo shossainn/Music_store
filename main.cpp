@@ -5,14 +5,8 @@ using namespace std;
 int main()
 {
 
-
-
-
-
-
-
-double balance = 10, input; 
-  while(balance >= 0.1){
+float balance = 10, input; 
+while(balance >= 0.1){
 
 cout << "Please Enter the cost of a song: ";
 cin >> input;
